@@ -2,6 +2,11 @@
 
 An intelligent legal assistant powered by Retrieval-Augmented Generation (RAG) that helps users get answers from legal documents. Upload PDF documents and ask questions to get precise, context-based legal information.
 
+## 🧪 Live Demo
+
+> 🚀 Deployed via Streamlit Cloud:  
+> 🔗 https://rag-ai-lawyer-qqcvruazxdh6cp6sypdq48.streamlit.app/
+
 ## 🌟 Features
 
 - **PDF Document Processing**: Upload multiple PDF files containing legal documents
